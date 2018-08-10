@@ -18,4 +18,5 @@ element.submit
 # Returns the title of the plugin
 puts driver.title
 
+# Closes Google Chrome
 driver.quit
