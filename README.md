@@ -11,3 +11,5 @@ Will be creating automated scripts for various web browsers and applications for
 [How to Use REST APIs and Selenium Webdriver Together](https://www.joecolantonio.com/use-rest-apis-selenium-webdriver-together/)
 
 [Top 10 Selenium Webdriver Books](https://www.testingexcellence.com/top-10-selenium-webdriver-books/)
+
+.
